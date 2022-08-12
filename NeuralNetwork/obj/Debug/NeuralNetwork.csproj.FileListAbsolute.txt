@@ -1,0 +1,11 @@
+D:\Part Of Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+D:\Part Of Projects\مشروع الذكاء\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\obj\Debug\NeuralNetwork.Form1.resources
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+H:\my faculty\Part Of Projects\مشروع الذكاء\NeuralNetwork AI\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
